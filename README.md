@@ -22,3 +22,7 @@ On weekdays the usage peaks around rush hours, but on weekends there is strong d
 <img src=Resources/TripsByWeekday.png></img>
 - Trips by Gender
 <img src=Resources/TripsByWeekdayByGender.png></img>
+### Overal Usage by Customer Type and Gender
+This shows the proportion of subscribers vs. customers broken down by day and gender.<br>
+Subscribers account for the majority of rides, but there is demand from customers on weekends.
+<img src=Resources/TripsByCustomerTypeAndGender.png></img>
