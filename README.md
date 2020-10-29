@@ -1,5 +1,6 @@
 # Bike Sharing Analysis
-[link to dashboard](https://public.tableau.com/profile/victor.f.lopez#!/)
+
+[Link to Tableau Dashboard](https://public.tableau.com/profile/victor.f.lopez#!/)
 
 ## Overview
 
