@@ -9,3 +9,10 @@ We analyzed data from the New York City Citibike program to show how a bike shar
 ### Rides by Hour
 This graphic shows that while demand peak naturally during rush hours, (8 AM and 5-6 PM) there is strong demand from 7 AM to 8 PM)
 <img src=Resources/PeakHours.png></img>
+### Checkout Times
+Checkout Times show how bikes are utilized in general and by gender.
+- Checkout Times by User
+<img src=Resources/CheckoutTimesbyUser.png></img>
+- Checkout Times by Gender
+<img src=Resources/CheckoutTimesbyGender.png></img>
+
