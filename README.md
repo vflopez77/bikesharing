@@ -25,4 +25,11 @@ On weekdays the usage peaks around rush hours, but on weekends there is strong d
 ### Overal Usage by Customer Type and Gender
 This shows the proportion of subscribers vs. customers broken down by day and gender.<br>
 Subscribers account for the majority of rides, but there is demand from customers on weekends.
-<img src=Resources/TripsByCustomerTypeAndGender.png></img>
+<img src=Resources/TripsByCustomerTypeAndGenders.png></img>
+### Trip Starting Locations
+The starting locations show usage throughout the city, with concentrations in the center, indicating robust demand.
+<img src=Resources/StartingLocations.png></img>
+## Conclusion
+The highly successful launch of Citibike in New York City, with over 2 million rides in our sample month of August, 2019, demonstrates that a similar program in Des Moines would have an excellent probablility of similarly flourishing.<br>
+
+Other areas for further analysis may include milage of trips and starting distance from city center.
