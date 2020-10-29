@@ -15,4 +15,10 @@ Checkout Times show how bikes are utilized in general and by gender.
 <img src=Resources/CheckoutTimesbyUser.png></img>
 - Checkout Times by Gender
 <img src=Resources/CheckoutTimesbyGender.png></img>
-
+### Usage by Weekday and Hour
+This shows how bicycles are used by weekday and hour.<br>
+On weekdays the usage peaks around rush hours, but on weekends there is strong demand throughout the day.
+- Trips by User<br>
+<img src=Resources/TripsByWeekday.png></img>
+- Trips by Gender
+<img src=Resources/TripsByWeekdayByGender.png></img>
