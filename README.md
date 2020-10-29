@@ -30,4 +30,6 @@ Subscribers account for the majority of rides, but there is demand from customer
 The starting locations show usage throughout the city, with concentrations in the center, indicating robust demand.
 <img src=Resources/StartingLocations.png></img>
 ## Conclusion
-The highly successful launch of Citibike in New York City, with over 2 million rides in our sample month of August, 2019, demonstrates that a similar program in Des Moines would have an excellent probablility of similarly flourishing.
+The highly successful launch of Citibike in New York City, with over 2 million rides in our sample month of August, 2019, demonstrates that a similar program in Des Moines would have an excellent probablility of similarly flourishing.<br>
+
+Other areas for further analysis may include milage of trips and starting distance from city center.
